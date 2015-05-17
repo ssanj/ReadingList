@@ -1,8 +1,8 @@
 # Reading List
 
-Welcome to my reading list. I've created this list to help share a few things. One, the books I'm currently reading. Two, the books I wish to read and that are on my "to read pile". Three a few books I would recommend.
+Welcome to my reading list. I've created this list to help share a few things. One, the books I'm currently reading. Two, the books I wish to read and that are on my "to read pile". Three, a few books I would recommend.
 
-If you like to recommend some books to me please send me a pull request.
+If you would like to recommend some books to me please send me a pull request.
 
 ## Reading
 
@@ -17,9 +17,11 @@ If you like to recommend some books to me please send me a pull request.
 1. [Love Does](http://www.amazon.com/Love-Does-Discover-Secretly-Incredible/dp/1400203759) - Bob Goff
 1. [Happiness is](http://www.amazon.com/Happiness-things-happy-about/dp/1452136009) - Ralph Lazar and Lisa Swerlin
 1. [Essentialism](http://www.amazon.com/Essentialism-The-Disciplined-Pursuit-Less/dp/0804137382) - Greg McKeown
-1. [Choose Yourself](http://www.amazon.com/Choose-Yourself-James-Altucher/dp/1490313370) - James altucher
-1. [The Art of War Visualised](http://www.amazon.com/Art-War-Visualized-Classic-Charts/dp/0761182381) - Jessica hagy
-1. [Elon Musk](http://www.amazon.com/Elon-Musk-SpaceX-Fantastic-Future/dp/0062301233) - Ashlee vance
+1. [Choose Yourself](http://www.amazon.com/Choose-Yourself-James-Altucher/dp/1490313370) - James Altucher
+1. [The Art of War Visualised](http://www.amazon.com/Art-War-Visualized-Classic-Charts/dp/0761182381) - Jessica Hagy
+1. [Elon Musk](http://www.amazon.com/Elon-Musk-SpaceX-Fantastic-Future/dp/0062301233) - Ashlee Vance
+1. [The Art of Asking](http://www.amazon.com/The-Art-Asking-Learned-Worrying/dp/1455581089) - Amanda Palmer
+1. [Dropping Ashes on the Buddha](http://www.amazon.com/Dropping-Ashes-Buddha-Teachings-Master/dp/0802130526) - Zen Master Seung Sahn
 
 ## Recommended
 
