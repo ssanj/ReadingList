@@ -1,6 +1,6 @@
 # Reading List
 
-Welcome to my reading list. I've created this list to help share a few things. One, the books I'm currently reading. Two, the books I wish to read and that are on my "to read pile". Three a few books I would recommend.
+Welcome to my reading list. I've created this list to help share a few things. One, the books I'm currently reading. Two, the books I wish to read and that are on my "to read pile". Three, a few books I would recommend.
 
 If you like to recommend some books to me please send me a pull request.
 
