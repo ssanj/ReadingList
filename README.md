@@ -26,5 +26,6 @@ If you would like to recommend some books to me please send me a pull request.
 ## Recommended
 
 1. [Zero to One](http://www.amazon.com/Zero-One-Notes-Startups-Future/dp/0804139296) - Peter Thiel
-2. [Ignore Everybody](http://www.amazon.com/Ignore-Everybody-Other-Keys-Creativity/dp/159184259X) - Hugh MacLeod
-3. [Steal Like an Artist](http://www.amazon.com/Steal-Like-Artist-Things-Creative/dp/0761169253) - Austin Kleon
+1. [Ignore Everybody](http://www.amazon.com/Ignore-Everybody-Other-Keys-Creativity/dp/159184259X) - Hugh MacLeod
+1. [Steal Like an Artist](http://www.amazon.com/Steal-Like-Artist-Things-Creative/dp/0761169253) - Austin Kleon
+1. [Rework](http://www.amazon.com/Rework-Jason-Fried/dp/0307463745/) -  Jason Fried, David Heinemeier Hansson
