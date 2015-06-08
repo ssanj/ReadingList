@@ -6,9 +6,9 @@ If you would like to suggest some books to me please send me a pull request.
 
 ## Reading
 
-1. [The War of Art](http://www.amazon.com/War-Art-Through-Creative-Battles/dp/1936891026) - Stephen Pressfield
-2. [Meditations](http://www.amazon.com/Meditations-Thrift-Editions-Marcus-Aurelius/dp/048629823X) - Marcus Aurelius
-3. [On Writing Well](http://www.amazon.com/Writing-Well-30th-Anniversary-Nonfiction/dp/0060891548) - William Zinsser
+1. [Meditations](http://www.amazon.com/Meditations-Thrift-Editions-Marcus-Aurelius/dp/048629823X) - Marcus Aurelius
+1. [On Writing Well](http://www.amazon.com/Writing-Well-30th-Anniversary-Nonfiction/dp/0060891548) - William Zinsser
+1. [Maximize Your Potential](http://www.amazon.com/Maximize-Your-Potential-Expertise-Incredible/dp/1501224735) - Jocelyn K. Glei
 
 ## Want to Read
 
@@ -30,6 +30,7 @@ If you would like to suggest some books to me please send me a pull request.
 1. [Ignore Everybody](http://www.amazon.com/Ignore-Everybody-Other-Keys-Creativity/dp/159184259X) - Hugh MacLeod
 1. [Steal Like an Artist](http://www.amazon.com/Steal-Like-Artist-Things-Creative/dp/0761169253) - Austin Kleon
 1. [Rework](http://www.amazon.com/Rework-Jason-Fried/dp/0307463745/) -  Jason Fried, David Heinemeier Hansson
+1. [The Sketch Note Handbook](http://www.amazon.com/The-Sketchnote-Handbook-illustrated-visual/dp/0321857895) - Mike Rodhe
 
 ## Suggestions
 
