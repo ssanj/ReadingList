@@ -6,9 +6,7 @@ If you would like to suggest some books to me please send me a pull request.
 
 ## Books I'm Reading
 
-1. [The Art of Asking](http://www.amazon.com/The-Art-Asking-Learned-Worrying/dp/1455581089) - Amanda Palmer
 1. [The Sketchnote Workbook](http://www.amazon.com/The-Sketchnote-Workbook-Advanced-techniques/dp/013383171X) - Mike Rodhe
-1. [100 Days Happier](http://www.amazon.com/100-Days-Happier-Inspiration-Life-Long/dp/1742706215) - Domonique Bertolucci
 
 ## Books I Want to Read
 
@@ -31,9 +29,12 @@ If you would like to suggest some books to me please send me a pull request.
 1. [The Sketchnote Handbook](http://www.amazon.com/The-Sketchnote-Handbook-illustrated-visual/dp/0321857895) - Mike Rodhe
 1. [Essentialism](http://www.amazon.com/Essentialism-The-Disciplined-Pursuit-Less/dp/0804137382) - Greg McKeown ([notes](http://sanj.ink/posts/2015-09-20-essentialism-greg-mckeon.html))
 1. [Die Empty: Unleash Your Best Work Every Day](https://www.amazon.com/Die-Empty-Unleash-Every-Hardcover/dp/B00IID9M46) - Todd Henry
+1. [Ego is the Enemy: The Fight to Master Our Greatest Opponent](https://www.amazon.com/Ego-Enemy-Ryan-Holiday/dp/1591847818) - Ryan Holiday ([notes](http://sanj.ink/posts/2016-09-11-ego-is-the-enemy-ryan-holiday.html))
+1. [100 Days Happier](http://www.amazon.com/100-Days-Happier-Inspiration-Life-Long/dp/1742706215) - Domonique Bertolucci
 
 ## Books Recommended to Me
 
-1. [Daring Greatly](http://www.amazon.com/Daring-Greatly-Courage-Vulnerable-Transforms/dp/1592408419) - Brene Brown (via [@itsryandrake](https://github.com/itsryandrake))
+1. ~~[Daring Greatly](http://www.amazon.com/Daring-Greatly-Courage-Vulnerable-Transforms/dp/1592408419) - Brene Brown (via [@itsryandrake](https://github.com/itsryandrake))~~ ([notes](http://sanj.ink/posts/2015-10-14-daring-greatly-brene-brown.html))
+1. ~~[The Art of Asking](http://www.amazon.com/The-Art-Asking-Learned-Worrying/dp/1455581089) - Amanda Palmer (via [@itsryandrake](https://github.com/itsryandrake))~~
 1. [Love Does](http://www.amazon.com/Love-Does-Discover-Secretly-Incredible/dp/1400203759) - Bob Goff (via [@itsryandrake](https://github.com/itsryandrake))
 1. [People Over Profit](http://www.amazon.com/People-Over-Profit-Purpose-Successful/dp/0718021746) - Dale Patridge (via [@itsryandrake](https://github.com/itsryandrake))
