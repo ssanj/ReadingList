@@ -19,6 +19,7 @@ If you would like to suggest some books to me please send me a pull request.
 1. [A More Beautiful Question](http://www.amazon.com/More-Beautiful-Question-Inquiry-Breakthrough/dp/1620401452) - Warren Berger
 1. [The Compound Effect](http://www.amazon.com/The-Compound-Effect-Darren-Hardy/dp/159315724X) - Darren Hardy
 1. [Deep Work: Rules for Focused Success in a Distracted World](https://www.amazon.com/Deep-Work-Focused-Success-Distracted/dp/1455586692) - Cal Newport
+1. [Start Something That Matters](https://www.amazon.com/gp/product/1400069181) -  Blake Mycoskie
 
 ## Books I Recommend
 
